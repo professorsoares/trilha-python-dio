@@ -7,6 +7,9 @@ https://github.com/digitalinnovationone/trilha-python-dio
 ### MAIN
 https://github.com/professorsoares/trilha-python-dio/tree/main
 
+### FUNDAMENTOS
+https://github.com/professorsoares/trilha-python-dio/tree/00_fundamentos
+
 ### ESTRUTURA DE DADOS
 https://github.com/professorsoares/trilha-python-dio/tree/01_estrutura_de_dados
 
